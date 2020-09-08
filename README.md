@@ -1,9 +1,9 @@
 # [![James Finstrom](https://raw.githubusercontent.com/jfinstrom/jfinstrom/master/banner.png)](https://g3p0.xyz)
-![GitHub followers](https://img.shields.io/github/followers/jfinstrom?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/geek3point0?style=social)
-![Keybase PGP](https://img.shields.io/keybase/pgp/jfinstrom?style=social)
-![Keybase BTC](https://img.shields.io/keybase/btc/jfinstrom?style=social)
-![Keybase XLM](https://img.shields.io/keybase/xlm/jfinstrom?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/jfinstrom?style=social)](https://github.com/jfinstrom)
+[![Twitter Follow](https://img.shields.io/twitter/follow/geek3point0?style=social)](https://twitter.com/geek3point0)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/jfinstrom?style=social)](https://keybase.io/jfinstrom/pgp_keys.asc)
+[![Keybase BTC](https://img.shields.io/keybase/btc/jfinstrom?style=social)](https://keybase.io/jfinstrom)
+[![Keybase XLM](https://img.shields.io/keybase/xlm/jfinstrom?style=social)](https://keybase.io/jfinstrom)
 
 ```json
 {
