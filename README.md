@@ -1,4 +1,9 @@
 # [![James Finstrom](https://raw.githubusercontent.com/jfinstrom/jfinstrom/master/banner.png)](https://g3p0.xyz)
+![GitHub followers](https://img.shields.io/github/followers/jfinstrom?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/geek3point0?style=social)
+![Keybase PGP](https://img.shields.io/keybase/pgp/jfinstrom?style=social)
+![Keybase BTC](https://img.shields.io/keybase/btc/jfinstrom?style=social)
+![Keybase XLM](https://img.shields.io/keybase/xlm/jfinstrom?style=social)
 
 ```json
 {
@@ -40,18 +45,3 @@
   ]
 }
 ```
-
-<!--
-**jfinstrom/jfinstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
