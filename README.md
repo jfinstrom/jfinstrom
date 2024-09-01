@@ -1,4 +1,4 @@
-# [![James Finstrom](https://raw.githubusercontent.com/jfinstrom/jfinstrom/master/banner.png)](https://g3p0.xyz)
+# [![James Finstrom](https://raw.githubusercontent.com/jfinstrom/jfinstrom/master/banner.png)](https://g3p0.fun)
 [![GitHub followers](https://img.shields.io/github/followers/jfinstrom?style=social)](https://github.com/jfinstrom)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geek3point0?style=social)](https://twitter.com/geek3point0)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/jfinstrom?style=social)](https://keybase.io/jfinstrom/pgp_keys.asc)
